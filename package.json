@@ -1,0 +1,26 @@
+{
+  "name": "11ty-demo",
+  "version": "1.0.0",
+  "description": "demo of 11ty static site generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanroat/11ty-demo.git"
+  },
+  "keywords": [
+    "11ty",
+    "javascript"
+  ],
+  "author": "Ryan Roat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanroat/11ty-demo/issues"
+  },
+  "homepage": "https://github.com/ryanroat/11ty-demo#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
