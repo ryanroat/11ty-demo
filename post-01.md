@@ -5,4 +5,4 @@ title: My first blog post
 
 ## {{title}}
 
-This is the first blog post of the 11ty demo site.
+This is the first blog post of the 11ty demo site, using Nunchucks templating.
